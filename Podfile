@@ -8,6 +8,7 @@ target 'MeSocial' do
   # Pods for MeSocial
   pod "Parse"
   pod "AlamofireImage"
+  pod "MessageInputBar"	
 
   target 'MeSocialTests' do
     inherit! :search_paths
